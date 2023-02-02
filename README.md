@@ -1,4 +1,4 @@
-### Ce dépôt contient les liens vers les programmes associés au document de travail :
+### Ce dépôt contient *les liens* vers les programmes associés au document de travail :
 # *Les réseaux de neurones appliqués à la statistique publique: méthodes et cas d'usages*.
 
 Auteurs :
@@ -7,6 +7,12 @@ Auteurs :
 *Thomas Faria*,
 *Stéphanie Himpens*
 
+### Reproductibilité:
+Les chapitres 1, 3 et 4 utilisent des données ouvertes. Les codes sont donc directement utilisables par tous. Chaque dépôt pour ces chapitres est accompagné de l'image docker de l'ensemble des codes, et pour chaque chapitre un *readme* détaille les méthodes de mise en oeuvre.
+
+Le chapitre 4 utilise également des données confidentielles, accessibles aux chercheurs.
+
+Le chapitre 2 s'appuie uniquement sur des fichiers de production, non accessibles. Le code est utilisable dans l'environnement des serveurs de calcul de l'Insee.
 
 ## Chapitre 1 : Apprentissage algorithmique (*Machine learning*) et réseaux de neurones, concepts et prise en main
 
