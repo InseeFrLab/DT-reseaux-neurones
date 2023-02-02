@@ -1,6 +1,3 @@
-# publication_DT_reseaux_neurones
- Source code for INSEE Working Paper on use cases of neural networks with Official Statistics 
-
 ### Ce dépôt contient les liens vers les programmes associés au document de travail :
 # *Les réseaux de neurones appliqués à la statistique publique: méthodes et cas d'usages*.
 
